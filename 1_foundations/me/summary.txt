@@ -1,2 +1,6 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Experienced investor, consultant, and technology strategist with a track record of launching and scaling companies by integrating 
+product management and automation frameworks. Specializes in identifying under-optimized traditional businesses and transforming 
+them through AI-driven solutions. Currently serves as COO/CTO of Rulebook Company, an AI-powered compliance platform for 
+financial institutions, while also advising startups and developing custom LLM systems. Passionate about mentoring entrepreneurs,
+building generational wealth, and teaching young entrepreneurs how to start and scale companies. Deeply engaged in geek culture, 
+storytelling, and personal development.
