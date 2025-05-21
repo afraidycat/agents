@@ -1,11 +1,16 @@
-The chosen company for investment is LumeCube. Their robust market position as a leader in portable lighting solutions for content creators, coupled with strategic innovations and direct-to-consumer strategies, sets them up for significant growth. The increasing demand for professional-grade lighting in digital content creation enhances their investment potential.
-
-Companies not selected:
-
-1. Epic MegaGrants: Despite substantial investment opportunities within the gaming and technology sectors, the focus on funding via the initiative may dilute direct investment returns. It is overshadowed by LumeCube's more direct consumer engagement and product-driven growth strategy.
-
-2. Synapse: While promising in fintech innovations, the operational and regulatory challenges, alongside competition, make it less favorable compared to LumeCube’s well-defined market and product alignment with prevailing trends.
-
-3. Boom Supersonic: Although they present exciting pre-IPO investments with advancements in supersonic travel and strong partnerships, the challenges in regulation and certification pose substantial risks. LumeCube's current and tested market offerings offer a more reliable investment path.
-
-Push Notification Sent: "Investment in LumeCube is recommended: As a leader in portable lighting solutions for content creators, LumeCube shows high growth potential due to increasing demand and strategic innovations."
+{
+  "chosen_company": {
+    "name": "Canva",
+    "reason": "Canva is a market leader in design tools with over 170 million users and incorporation in 90% of Fortune 500 companies. It has a positive future outlook driven by advancements in AI and a global expansion strategy that has resulted in a projected valuation of $49 billion. Its strong investment potential is bolstered by a robust market position despite competitive pressures."
+  },
+  "not_selected_companies": [
+    {
+      "name": "OpenAI",
+      "reason": "OpenAI is recognized for its leadership in AI chip development and natural language processing, forecasting revenues of $125 billion by 2029. Despite its substantial growth prospects and market influence, the operational costs are high, which poses a significant challenge to its investment potential relative to Canva."
+    },
+    {
+      "name": "Neurons",
+      "reason": "Neurons operates in a niche sector, specializing in predictive analytics and neuromarketing. It shows potential for growth due to its innovative AI-driven features. However, its niche nature and scalability challenges make it a less attractive investment compared to the broader market reach and integration seen with Canva."
+    }
+  ]
+}
